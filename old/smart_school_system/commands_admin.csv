@@ -1,0 +1,6 @@
+Admin(COMMANDS) ,WORKINGS
+view passwords  ,to View Passwords.
+add account     ,to Create new Account.
+remove account  ,to Remove an existing account.
+logout          ,to Logout.
+exit            ,to exit the software.

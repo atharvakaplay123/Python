@@ -1,0 +1,16 @@
+COMMANDS                 ,WORKINGS
+insert marks             ,to insert marks of a student.
+insert marks multiple    ,to insert marks of multiple students.
+import student scorecard ,to import .csv file to the database.
+insert                   ,to insert student data.
+insert multiple          ,to insert data of multiple students.
+view                     ,to view students data.
+view marksheet           ,to view marks of all students of the class in specific examination.
+view student scorecard   ,to view scorecard of a student.
+view spec                ,to view a student's profile.
+delete                   ,to delete a student's profile.
+delete multiple          ,to delete multiple students profiles.
+clear markslist          ,to clear the whole marks list.
+clear                    ,to clear whole data.
+exit                     ,to exit the software.
+logout                   ,to logout.
